@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# Uploads folder (your uploaded files)
+uploads/
+
+# Don't push sensitive config!
+src/main/resources/application.yml
